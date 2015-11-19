@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+#tab {
+	border-collapse:collapse;
+	width:100%;
+	border-bottom:2PX solid #ef9000;
+	border-top:2PX solid #ef9000;
+	color:#333;
+	margin-bottom:20px;
+}
+#tab tr, td {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:12px;
+	text-indent:6px;
+	height:30px;
+	line-height:30px;
+	font-weight:normal;
+	border-top:1px solid #e7e7e7;
+}
+
+#tab thead th {
+	background:#f7f7f7;
+	text-indent:10px;
+}
+#tab .td_css {
+	width:120px;
+	background:#F2F2F2;
+	font-size:13PX;
+}

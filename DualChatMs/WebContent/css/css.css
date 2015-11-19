@@ -1,0 +1,279 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: "Î¢ÈíÑÅºÚ";
+	font-size: 13px;
+	line-height: 21px;
+	background-color: #9ED7FF;
+	color: #756b19;
+}
+.wrap{
+	max-width:480px;
+	float:none;
+	margin-left:auto;
+	margin-right:auto;
+	}
+div {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: auto;
+	width: 100%;
+}
+.top img,.footer img {
+	height: auto;
+	width: 100%;
+}
+.qiandao {
+	/* background-image: url(img/index_02.png); */
+	background-repeat: repeat-x;
+	background-color: #9ED7FF;
+	background-position: left top;
+}
+.content {
+	float: none;
+	width: 320px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.hd1 {
+	background-image: url(images/index_04.png);
+	height: 149px;
+}
+.hd2 .t {
+	background-image: url(images/index_05.png);
+	height: 69px;
+}
+.m {
+	background-image: url(images/index_06.png);
+	background-repeat: repeat-y;
+}
+.e {
+	background-image: url(images/index_08.png);
+	height: 27px;
+}
+.hd3 .t {
+	background-image: url(images/index_09.png);
+	height: 67px;
+}
+.pre {
+	background-image: url(images/index_11.png);
+	height: 259px;
+}
+.m span {
+	width: 270px;
+	margin-left: 25px;
+	display: block;
+	float: left;
+	height: auto;
+}
+.m .cai {
+	background-image: url(images/cai.png);
+	height: 64px;
+}
+.textcss {
+	padding: 0px;
+	float: left;
+	height: 40px;
+	width: 270px;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+}
+.buttoncss {
+	line-height: 25px;
+	color: #FFF;
+	background-color: #82B80E;
+	text-align: center;
+	display: block;
+	padding: 0px;
+	float: left;
+	height: 25px;
+	width: 80px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 100px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	text-shadow:#72a308 1px 1px;
+	border-radius:5px;
+}
+.nav a {
+	line-height: 25px;
+	color: #FFF;
+	background-color: #6f97b3;
+	display: block;
+	padding: 0px;
+	float: left;
+	height: 25px;
+	width: 95px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 8px;
+	text-decoration: none;
+	text-align: center;
+	border-radius:5px;
+}
+img, a {
+	text-decoration: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.qiandao .left {
+	margin: 0px;
+	float: left;
+	width: 55%;
+	display: block;
+	height: 50px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 5%;
+	color: #000;
+	line-height: 25px;
+}
+.qiandao .right {
+	float: right;
+	width: 40%;
+	display: block;
+	height: 50px;
+	margin: 0px;
+	padding: 0px;
+	text-align: right;
+}
+.qiandao .left strong {
+	font-weight: normal;
+	color: #F00;
+}
+.buttons {
+	line-height: 35px;
+	color: #000;
+}
+.hd1 .pic {
+	height: 80px;
+}
+.hd1 .cj {
+	line-height: 26px;
+	text-align: center;
+}
+.buttons .b1 {
+	background-color: #ffeec7;
+	padding-right: 8px;
+	padding-left: 8px;
+	margin-left: 40px;
+	color: #900;
+	border-radius:5px;
+}
+.buttons .b2 {
+	color: #060;
+	background-color: #FFEEC7;
+	padding-right: 8px;
+	padding-left: 8px;
+	margin-left: 15px;
+	border-radius:5px;
+}
+.hd1 .cj a {
+	color: #FFF;
+	font-size: 14px;
+	text-shadow:#090 1px 1px;
+}
+.pic img {
+	margin-top: 2px;
+	margin-left: 12px;
+}
+.footer {
+	line-height: 35px;
+	text-align: center;
+}
+.qiandao .notice {
+	background-color: #FFF;
+	display: block;
+	float: left;
+	height: auto;
+	width: 94%;
+	margin-left: 2%;
+	padding-right: 1%;
+	padding-left: 1%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.notice h1 {
+	font-size: 14px;
+	color: #F00;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	font-weight: normal;
+}
+.rl .t {
+	background-image: url(images/calender_top.png);
+	height: 54px;
+}
+.rl {
+	width: 294px;
+	margin-left: 10px;
+}
+.none {
+	color: #999;
+}
+.light {
+	color: #FFF;
+	background-color: #2FA2FF;
+}
+.tb strong {
+	color: #FFF;
+	background-color: #53B1FF;
+	padding-right: 3px;
+	padding-left: 3px;
+}
+.t h2 {
+	line-height: 30px;
+	color: #FFF;
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: 30px;
+	width: 200px;
+	font-size: 16px;
+	text-align: center;
+}
+.rl .t a {
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: 30px;
+	width: 40px;
+}
+
+
+.tb {
+	line-height: 25px;
+	background-color: #FFFFF7;
+	text-align: center;
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: auto;
+	width: 100%;
+	border: 1px none #999;
+	color: #333;
+}
+.tb li {
+	line-height: 26px;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: 26px;
+	width: 41px;
+	list-style-type: none;
+}
